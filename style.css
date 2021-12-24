@@ -125,6 +125,16 @@ button:hover {
 }
 @media only screen and (max-width: 480px) {
   html {
-    font-size: 45%;
+    font-size: 40%;
+  }
+}
+@media only screen and (max-width: 400px) {
+  html {
+    font-size: 30%;
+  }
+}
+@media only screen and (max-width: 300px) {
+  html {
+    font-size: 20%;
   }
 }

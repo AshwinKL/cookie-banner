@@ -2,7 +2,7 @@
 A simple animated cookie banner using gsap.
 
 ## Preview:
-<img src='' alt='preview of the cookie banner'>
+<img src='./assets/preview.png' alt='preview of the cookie banner'>
 
 ## Technologies used: :sparkles:
 - HTML
@@ -19,3 +19,6 @@ The GreenSock Animation Platform (GSAP) is a popular set of JavaScript tools for
 
 ### Sources:
 This Banner is created with the help of youtube video of DevelopedByEd. Thanks to [DevelopedByEd](https://www.youtube.com/c/DevEd).
+
+### Live website:
+Watch the live website [here](https://ashwinkl.github.io/cookie-banner/)
